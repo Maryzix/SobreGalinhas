@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.galinha{
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+#oqsao{
+    font-size: 30px;
+}
